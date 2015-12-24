@@ -1,15 +1,15 @@
 #################################
-####### What´s cooking? #########
+####### WhatÂ´s cooking? #########
 #################################
 
 #This competition asks you to predict 
 #the category of a dish's cuisine given a list of its ingredients
 
-#Categorization accuracy scored = 80.742% (Top 10%)
+#Classification accuracy achieved = 80.742% (Top 10%)
 
 
 
-##Let´s cook
+##LetÂ´s cook
         setwd("Your working directory here")
 
 ##Load and reshape data:
